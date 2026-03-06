@@ -23,7 +23,7 @@ ALLOWED_ORIGINS = os.environ.get('ALLOWED_ORIGINS', 'http://localhost:8000,http:
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=ALLOWED_ORIGINS,
+    allow_origins=["http://localhost:3000", "https://clutch-lead-finder-backend.onrender.com"],  # Add your React app URL
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
