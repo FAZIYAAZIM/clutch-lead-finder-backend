@@ -1,0 +1,26 @@
+company,category,quality,score,validation_score,location,reviews,employees,emp_count,email,website,scraped_at
+Cloud Consulting Company 1,Cloud Consulting,High,85,85,"Delhi, India",186,50-249,1262,info@cloud-consulting1.com,https://www.cloud-consulting1.com,2026-03-06 07:02:00
+Cloud Consulting Company 2,Cloud Consulting,High,80,80,"Pune, India",366,50-249,2913,info@cloud-consulting2.com,https://www.cloud-consulting2.com,2026-03-06 07:02:00
+Cloud Consulting Company 3,Cloud Consulting,Premium,95,95,"Delhi, India",59,1000-5000,4774,info@cloud-consulting3.com,https://www.cloud-consulting3.com,2026-03-06 07:02:00
+Cloud Consulting Company 4,Cloud Consulting,Low,69,69,"Pune, India",113,10-49,1520,info@cloud-consulting4.com,https://www.cloud-consulting4.com,2026-03-06 07:02:00
+Cloud Consulting Company 5,Cloud Consulting,Premium,95,95,"Delhi, India",146,10-49,3661,info@cloud-consulting5.com,https://www.cloud-consulting5.com,2026-03-06 07:02:00
+Cloud Consulting Company 6,Cloud Consulting,Low,65,65,"Hyderabad, India",11,1000-5000,2618,info@cloud-consulting6.com,https://www.cloud-consulting6.com,2026-03-06 07:02:00
+Cloud Consulting Company 7,Cloud Consulting,Medium,71,71,"Pune, India",326,10-49,4054,info@cloud-consulting7.com,https://www.cloud-consulting7.com,2026-03-06 07:02:00
+Cloud Consulting Company 8,Cloud Consulting,Medium,77,77,"Hyderabad, India",262,50-249,2404,info@cloud-consulting8.com,https://www.cloud-consulting8.com,2026-03-06 07:02:00
+Cloud Consulting Company 9,Cloud Consulting,Premium,97,97,"Pune, India",426,250-999,4826,info@cloud-consulting9.com,https://www.cloud-consulting9.com,2026-03-06 07:02:00
+Cloud Consulting Company 10,Cloud Consulting,Premium,90,90,"Mumbai, India",394,1000-5000,984,info@cloud-consulting10.com,https://www.cloud-consulting10.com,2026-03-06 07:02:00
+Cloud Consulting Company 11,Cloud Consulting,High,81,81,"Bangalore, India",500,10-49,4649,info@cloud-consulting11.com,https://www.cloud-consulting11.com,2026-03-06 07:02:00
+Cloud Consulting Company 12,Cloud Consulting,High,82,82,"Hyderabad, India",268,250-999,4391,info@cloud-consulting12.com,https://www.cloud-consulting12.com,2026-03-06 07:02:00
+Cloud Consulting Company 13,Cloud Consulting,High,83,83,"Delhi, India",176,250-999,465,info@cloud-consulting13.com,https://www.cloud-consulting13.com,2026-03-06 07:02:00
+Cloud Consulting Company 14,Cloud Consulting,Medium,73,73,"Hyderabad, India",324,1000-5000,4443,info@cloud-consulting14.com,https://www.cloud-consulting14.com,2026-03-06 07:02:00
+Cloud Consulting Company 15,Cloud Consulting,Premium,90,90,"Chennai, India",11,50-249,2043,info@cloud-consulting15.com,https://www.cloud-consulting15.com,2026-03-06 07:02:00
+Cloud Consulting Company 16,Cloud Consulting,Premium,91,91,"Hyderabad, India",431,10-49,4215,info@cloud-consulting16.com,https://www.cloud-consulting16.com,2026-03-06 07:02:00
+Cloud Consulting Company 17,Cloud Consulting,Low,65,65,"Mumbai, India",306,50-249,336,info@cloud-consulting17.com,https://www.cloud-consulting17.com,2026-03-06 07:02:00
+Cloud Consulting Company 18,Cloud Consulting,Low,68,68,"Mumbai, India",81,1000-5000,396,info@cloud-consulting18.com,https://www.cloud-consulting18.com,2026-03-06 07:02:00
+Cloud Consulting Company 19,Cloud Consulting,Premium,94,94,"Bangalore, India",309,1000-5000,472,info@cloud-consulting19.com,https://www.cloud-consulting19.com,2026-03-06 07:02:00
+Cloud Consulting Company 20,Cloud Consulting,Premium,97,97,"Mumbai, India",297,250-999,4352,info@cloud-consulting20.com,https://www.cloud-consulting20.com,2026-03-06 07:02:00
+Cloud Consulting Company 21,Cloud Consulting,Medium,70,70,"Mumbai, India",448,250-999,2278,info@cloud-consulting21.com,https://www.cloud-consulting21.com,2026-03-06 07:02:00
+Cloud Consulting Company 22,Cloud Consulting,High,80,80,"Hyderabad, India",163,10-49,28,info@cloud-consulting22.com,https://www.cloud-consulting22.com,2026-03-06 07:02:00
+Cloud Consulting Company 23,Cloud Consulting,Medium,78,78,"Delhi, India",157,250-999,4313,info@cloud-consulting23.com,https://www.cloud-consulting23.com,2026-03-06 07:02:00
+Cloud Consulting Company 24,Cloud Consulting,Medium,73,73,"Delhi, India",458,50-249,2446,info@cloud-consulting24.com,https://www.cloud-consulting24.com,2026-03-06 07:02:00
+Cloud Consulting Company 25,Cloud Consulting,Low,67,67,"Delhi, India",75,250-999,4380,info@cloud-consulting25.com,https://www.cloud-consulting25.com,2026-03-06 07:02:00

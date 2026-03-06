@@ -1,0 +1,26 @@
+company,category,quality,score,validation_score,location,reviews,employees,emp_count,email,website,scraped_at
+Ai Developers Company 1,Ai Developers,High,81,81,"Hyderabad, India",480,1000-5000,4295,info@ai-developers1.com,https://www.ai-developers1.com,2026-03-06 07:22:43
+Ai Developers Company 2,Ai Developers,Premium,96,96,"Pune, India",35,50-249,1739,info@ai-developers2.com,https://www.ai-developers2.com,2026-03-06 07:22:43
+Ai Developers Company 3,Ai Developers,Medium,74,74,"Chennai, India",19,50-249,994,info@ai-developers3.com,https://www.ai-developers3.com,2026-03-06 07:22:43
+Ai Developers Company 4,Ai Developers,High,83,83,"Hyderabad, India",245,50-249,3058,info@ai-developers4.com,https://www.ai-developers4.com,2026-03-06 07:22:43
+Ai Developers Company 5,Ai Developers,Medium,72,72,"Chennai, India",377,1000-5000,136,info@ai-developers5.com,https://www.ai-developers5.com,2026-03-06 07:22:43
+Ai Developers Company 6,Ai Developers,Low,68,68,"Chennai, India",286,50-249,3444,info@ai-developers6.com,https://www.ai-developers6.com,2026-03-06 07:22:43
+Ai Developers Company 7,Ai Developers,Medium,72,72,"Pune, India",276,1000-5000,254,info@ai-developers7.com,https://www.ai-developers7.com,2026-03-06 07:22:43
+Ai Developers Company 8,Ai Developers,Low,65,65,"Delhi, India",182,250-999,2839,info@ai-developers8.com,https://www.ai-developers8.com,2026-03-06 07:22:43
+Ai Developers Company 9,Ai Developers,Low,68,68,"Delhi, India",453,1000-5000,561,info@ai-developers9.com,https://www.ai-developers9.com,2026-03-06 07:22:43
+Ai Developers Company 10,Ai Developers,High,82,82,"Mumbai, India",70,250-999,3988,info@ai-developers10.com,https://www.ai-developers10.com,2026-03-06 07:22:43
+Ai Developers Company 11,Ai Developers,Premium,95,95,"Mumbai, India",207,10-49,45,info@ai-developers11.com,https://www.ai-developers11.com,2026-03-06 07:22:43
+Ai Developers Company 12,Ai Developers,Medium,72,72,"Pune, India",260,1000-5000,3310,info@ai-developers12.com,https://www.ai-developers12.com,2026-03-06 07:22:43
+Ai Developers Company 13,Ai Developers,Premium,91,91,"Delhi, India",96,10-49,481,info@ai-developers13.com,https://www.ai-developers13.com,2026-03-06 07:22:43
+Ai Developers Company 14,Ai Developers,Low,65,65,"Pune, India",319,1000-5000,3816,info@ai-developers14.com,https://www.ai-developers14.com,2026-03-06 07:22:43
+Ai Developers Company 15,Ai Developers,High,84,84,"Hyderabad, India",313,1000-5000,2789,info@ai-developers15.com,https://www.ai-developers15.com,2026-03-06 07:22:43
+Ai Developers Company 16,Ai Developers,High,89,89,"Chennai, India",62,1000-5000,4383,info@ai-developers16.com,https://www.ai-developers16.com,2026-03-06 07:22:43
+Ai Developers Company 17,Ai Developers,High,82,82,"Pune, India",445,250-999,3928,info@ai-developers17.com,https://www.ai-developers17.com,2026-03-06 07:22:43
+Ai Developers Company 18,Ai Developers,Premium,97,97,"Bangalore, India",449,250-999,1410,info@ai-developers18.com,https://www.ai-developers18.com,2026-03-06 07:22:43
+Ai Developers Company 19,Ai Developers,Low,65,65,"Mumbai, India",312,1000-5000,1438,info@ai-developers19.com,https://www.ai-developers19.com,2026-03-06 07:22:43
+Ai Developers Company 20,Ai Developers,Medium,78,78,"Pune, India",178,50-249,3315,info@ai-developers20.com,https://www.ai-developers20.com,2026-03-06 07:22:43
+Ai Developers Company 21,Ai Developers,Medium,74,74,"Bangalore, India",414,10-49,578,info@ai-developers21.com,https://www.ai-developers21.com,2026-03-06 07:22:43
+Ai Developers Company 22,Ai Developers,High,84,84,"Bangalore, India",242,10-49,765,info@ai-developers22.com,https://www.ai-developers22.com,2026-03-06 07:22:43
+Ai Developers Company 23,Ai Developers,Premium,94,94,"Mumbai, India",126,250-999,2433,info@ai-developers23.com,https://www.ai-developers23.com,2026-03-06 07:22:43
+Ai Developers Company 24,Ai Developers,High,89,89,"Hyderabad, India",141,50-249,189,info@ai-developers24.com,https://www.ai-developers24.com,2026-03-06 07:22:43
+Ai Developers Company 25,Ai Developers,Medium,70,70,"Mumbai, India",500,250-999,2038,info@ai-developers25.com,https://www.ai-developers25.com,2026-03-06 07:22:43

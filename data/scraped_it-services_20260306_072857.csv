@@ -1,0 +1,26 @@
+company,category,quality,score,validation_score,location,reviews,employees,emp_count,email,website,scraped_at
+It Services Company 1,It Services,Low,66,66,"Bangalore, India",151,250-999 employees,330,info@company1.com,https://www.company1.com,2026-03-06 07:28:57
+It Services Company 2,It Services,Medium,78,78,"Delhi, India",472,250-999 employees,165,info@company2.com,https://www.company2.com,2026-03-06 07:28:57
+It Services Company 3,It Services,High,83,83,"Bangalore, India",126,10-49 employees,649,info@company3.com,https://www.company3.com,2026-03-06 07:28:57
+It Services Company 4,It Services,Low,69,69,"Bangalore, India",494,250-999 employees,791,info@company4.com,https://www.company4.com,2026-03-06 07:28:57
+It Services Company 5,It Services,High,80,80,"Bangalore, India",462,10-49 employees,739,info@company5.com,https://www.company5.com,2026-03-06 07:28:57
+It Services Company 6,It Services,Medium,76,76,"Mumbai, India",197,250-999 employees,589,info@company6.com,https://www.company6.com,2026-03-06 07:28:57
+It Services Company 7,It Services,Premium,92,92,"Mumbai, India",250,10-49 employees,950,info@company7.com,https://www.company7.com,2026-03-06 07:28:57
+It Services Company 8,It Services,High,87,87,"Bangalore, India",53,50-249 employees,235,info@company8.com,https://www.company8.com,2026-03-06 07:28:57
+It Services Company 9,It Services,High,86,86,"Delhi, India",111,50-249 employees,525,info@company9.com,https://www.company9.com,2026-03-06 07:28:57
+It Services Company 10,It Services,High,83,83,"Delhi, India",250,50-249 employees,586,info@company10.com,https://www.company10.com,2026-03-06 07:28:57
+It Services Company 11,It Services,Premium,90,90,"Delhi, India",416,10-49 employees,623,info@company11.com,https://www.company11.com,2026-03-06 07:28:57
+It Services Company 12,It Services,High,84,84,"Delhi, India",258,50-249 employees,56,info@company12.com,https://www.company12.com,2026-03-06 07:28:57
+It Services Company 13,It Services,High,87,87,"Mumbai, India",295,10-49 employees,400,info@company13.com,https://www.company13.com,2026-03-06 07:28:57
+It Services Company 14,It Services,High,83,83,"Delhi, India",442,250-999 employees,346,info@company14.com,https://www.company14.com,2026-03-06 07:28:57
+It Services Company 15,It Services,Low,69,69,"Delhi, India",142,50-249 employees,412,info@company15.com,https://www.company15.com,2026-03-06 07:28:57
+It Services Company 16,It Services,Low,67,67,"Delhi, India",289,50-249 employees,873,info@company16.com,https://www.company16.com,2026-03-06 07:28:57
+It Services Company 17,It Services,Premium,96,96,"Mumbai, India",288,50-249 employees,467,info@company17.com,https://www.company17.com,2026-03-06 07:28:57
+It Services Company 18,It Services,High,82,82,"Bangalore, India",234,250-999 employees,448,info@company18.com,https://www.company18.com,2026-03-06 07:28:57
+It Services Company 19,It Services,High,87,87,"Bangalore, India",152,250-999 employees,337,info@company19.com,https://www.company19.com,2026-03-06 07:28:57
+It Services Company 20,It Services,Medium,78,78,"Mumbai, India",354,10-49 employees,718,info@company20.com,https://www.company20.com,2026-03-06 07:28:57
+It Services Company 21,It Services,Premium,93,93,"Delhi, India",104,250-999 employees,619,info@company21.com,https://www.company21.com,2026-03-06 07:28:57
+It Services Company 22,It Services,Medium,70,70,"Delhi, India",403,250-999 employees,598,info@company22.com,https://www.company22.com,2026-03-06 07:28:57
+It Services Company 23,It Services,Low,68,68,"Mumbai, India",136,250-999 employees,255,info@company23.com,https://www.company23.com,2026-03-06 07:28:57
+It Services Company 24,It Services,Premium,97,97,"Mumbai, India",309,50-249 employees,764,info@company24.com,https://www.company24.com,2026-03-06 07:28:57
+It Services Company 25,It Services,High,86,86,"Delhi, India",437,10-49 employees,694,info@company25.com,https://www.company25.com,2026-03-06 07:28:57

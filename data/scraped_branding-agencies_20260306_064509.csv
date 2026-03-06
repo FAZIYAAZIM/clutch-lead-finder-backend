@@ -1,0 +1,7 @@
+company,category,quality,score,location,reviews,employees,emp_count,email,website
+BrandBuilders,Branding Agencies,Premium,94,"Bangalore, India",187,250-999,360,info@brandbuilders.com,https://brandbuilders.com
+IdentityPro,Branding Agencies,High,85,"Mumbai, India",145,50-249,120,hello@identitypro.com,https://identitypro.com
+BrandCraft,Branding Agencies,Medium,74,"Delhi, India",89,10-49,25,contact@brandcraft.com,https://brandcraft.com
+Landor & Fitch India,Branding Agencies in India,Premium,95,"Mumbai, India",198,250-999,400,info@landor.com,https://landor.com
+Interbrand India,Branding Agencies in India,Premium,94,"Bangalore, India",187,250-999,380,info@interbrand.com,https://interbrand.com
+BrandUnion,Branding Agencies in India,High,86,"Mumbai, India",156,50-249,140,hello@brandunion.com,https://brandunion.com

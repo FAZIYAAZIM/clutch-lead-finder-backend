@@ -1,0 +1,26 @@
+company,category,quality,score,validation_score,location,reviews,employees,emp_count,email,website,scraped_at
+Content Marketing Company 1,Content Marketing,Premium,98,98,"Hyderabad, India",376,250-999,1639,info@content-marketing1.com,https://www.content-marketing1.com,2026-03-06 07:00:02
+Content Marketing Company 2,Content Marketing,Premium,92,92,"Bangalore, India",20,250-999,1288,info@content-marketing2.com,https://www.content-marketing2.com,2026-03-06 07:00:02
+Content Marketing Company 3,Content Marketing,Premium,92,92,"Chennai, India",15,250-999,931,info@content-marketing3.com,https://www.content-marketing3.com,2026-03-06 07:00:02
+Content Marketing Company 4,Content Marketing,Premium,92,92,"Bangalore, India",429,250-999,4499,info@content-marketing4.com,https://www.content-marketing4.com,2026-03-06 07:00:02
+Content Marketing Company 5,Content Marketing,High,82,82,"Mumbai, India",339,1000-5000,1314,info@content-marketing5.com,https://www.content-marketing5.com,2026-03-06 07:00:02
+Content Marketing Company 6,Content Marketing,Low,65,65,"Delhi, India",29,10-49,1878,info@content-marketing6.com,https://www.content-marketing6.com,2026-03-06 07:00:02
+Content Marketing Company 7,Content Marketing,Premium,92,92,"Mumbai, India",166,250-999,2612,info@content-marketing7.com,https://www.content-marketing7.com,2026-03-06 07:00:02
+Content Marketing Company 8,Content Marketing,High,86,86,"Delhi, India",19,10-49,2257,info@content-marketing8.com,https://www.content-marketing8.com,2026-03-06 07:00:02
+Content Marketing Company 9,Content Marketing,Premium,96,96,"Delhi, India",185,50-249,1823,info@content-marketing9.com,https://www.content-marketing9.com,2026-03-06 07:00:02
+Content Marketing Company 10,Content Marketing,High,81,81,"Bangalore, India",81,10-49,1117,info@content-marketing10.com,https://www.content-marketing10.com,2026-03-06 07:00:02
+Content Marketing Company 11,Content Marketing,High,84,84,"Chennai, India",58,10-49,2079,info@content-marketing11.com,https://www.content-marketing11.com,2026-03-06 07:00:02
+Content Marketing Company 12,Content Marketing,Premium,98,98,"Chennai, India",253,250-999,2617,info@content-marketing12.com,https://www.content-marketing12.com,2026-03-06 07:00:02
+Content Marketing Company 13,Content Marketing,Premium,95,95,"Hyderabad, India",176,50-249,3737,info@content-marketing13.com,https://www.content-marketing13.com,2026-03-06 07:00:02
+Content Marketing Company 14,Content Marketing,High,82,82,"Hyderabad, India",258,10-49,4206,info@content-marketing14.com,https://www.content-marketing14.com,2026-03-06 07:00:02
+Content Marketing Company 15,Content Marketing,Medium,70,70,"Chennai, India",133,50-249,2899,info@content-marketing15.com,https://www.content-marketing15.com,2026-03-06 07:00:02
+Content Marketing Company 16,Content Marketing,Low,66,66,"Delhi, India",301,1000-5000,2951,info@content-marketing16.com,https://www.content-marketing16.com,2026-03-06 07:00:02
+Content Marketing Company 17,Content Marketing,High,88,88,"Bangalore, India",64,1000-5000,4799,info@content-marketing17.com,https://www.content-marketing17.com,2026-03-06 07:00:02
+Content Marketing Company 18,Content Marketing,High,80,80,"Pune, India",63,250-999,2348,info@content-marketing18.com,https://www.content-marketing18.com,2026-03-06 07:00:02
+Content Marketing Company 19,Content Marketing,Medium,71,71,"Bangalore, India",16,250-999,3385,info@content-marketing19.com,https://www.content-marketing19.com,2026-03-06 07:00:02
+Content Marketing Company 20,Content Marketing,Medium,78,78,"Pune, India",380,50-249,1951,info@content-marketing20.com,https://www.content-marketing20.com,2026-03-06 07:00:02
+Content Marketing Company 21,Content Marketing,High,84,84,"Mumbai, India",213,10-49,221,info@content-marketing21.com,https://www.content-marketing21.com,2026-03-06 07:00:02
+Content Marketing Company 22,Content Marketing,High,86,86,"Mumbai, India",388,10-49,1839,info@content-marketing22.com,https://www.content-marketing22.com,2026-03-06 07:00:02
+Content Marketing Company 23,Content Marketing,Premium,97,97,"Chennai, India",52,250-999,4385,info@content-marketing23.com,https://www.content-marketing23.com,2026-03-06 07:00:02
+Content Marketing Company 24,Content Marketing,High,83,83,"Mumbai, India",454,10-49,497,info@content-marketing24.com,https://www.content-marketing24.com,2026-03-06 07:00:02
+Content Marketing Company 25,Content Marketing,Medium,76,76,"Mumbai, India",41,250-999,818,info@content-marketing25.com,https://www.content-marketing25.com,2026-03-06 07:00:02
